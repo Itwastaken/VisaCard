@@ -40,6 +40,8 @@
 - 最低充值金额：20欧元
 - 标注账户无月费，费率低
 - 实体卡卡费：10欧元
+- 支持Wise、海妖验证及出入金
+- 支持数字货币交易所出入金
 
 **支持平台**：ChatGPT、Open AI、AppStore、Twitter、Netflix、Disney、HBO Max、Hulu、Etsy、Fiverr、Google Play、Midjourney、Facebook、Google、Amazon、PayPal、Shopify、TikTok、Alibaba、AliExpress、OnlyFans等。
 
