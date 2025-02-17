@@ -30,7 +30,8 @@
 
 **N26 德国银行** 虚拟信用卡免卡费，支持USDT或USDC充值，，可以支持绑定开通ChatGPT PLUS服务，同时适用于微信、支付宝、PayPal、Google Pay等。
 
-![image](https://github.com/user-attachments/assets/a05fad27-7f53-4597-bdb9-dac52990ed69/)
+![image](https://github.com/user-attachments/assets/95bc399a-a5b0-4ec0-b34a-7fa8b55e53c8)
+
 
 
 [注册 N26 Master Visa虚拟卡&&实体卡，点击链接注册限时送欧元€50](https://N26.com/r/fanz7840)
@@ -41,6 +42,7 @@
 - 标注账户无月费，费率低
 - 实体卡卡费：10欧元
 - 支持Wise、海妖验证及出入金
+- 支持支付宝、支付宝HK、微信 绑定使用
 - 支持数字货币交易所出入金
 
 **支持平台**：ChatGPT、Open AI、AppStore、Twitter、Netflix、Disney、HBO Max、Hulu、Etsy、Fiverr、Google Play、Midjourney、Facebook、Google、Amazon、PayPal、Shopify、TikTok、Alibaba、AliExpress、OnlyFans等。
