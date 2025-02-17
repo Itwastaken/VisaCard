@@ -26,9 +26,9 @@
 
 
 
-### N26 虚拟信用卡
+### N26 Master虚拟卡
 
-**N26 德国银行** 虚拟信用卡免卡费，支持USDT或USDC充值，，可以支持绑定开通ChatGPT PLUS服务，同时适用于微信、支付宝、PayPal、Google Pay等。
+**N26 德国银行** Master虚拟卡免卡费，支持USDT或USDC充值，，可以支持绑定开通ChatGPT PLUS服务，同时适用于微信、支付宝、PayPal、Google Pay等。
 
 ![image](https://github.com/user-attachments/assets/95bc399a-a5b0-4ec0-b34a-7fa8b55e53c8)
 
